@@ -28,20 +28,6 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 
 
-//Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
-
-//Escribe tu código aquí
-
-
-
-
-//Ejercicio 5: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
-
-//Escribe tu código aquí
-
-
-
-
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
 
