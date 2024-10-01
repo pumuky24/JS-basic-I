@@ -21,13 +21,6 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 
 
-//Ejercicio 3: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
-
-//Escribe tu código aquí
-
-
-
-
 //OPERADORES ARITMÉTICOS
 //Ejercicio 4: Crea una varible que sume 2 números e imprime el resultado en consola.
 
